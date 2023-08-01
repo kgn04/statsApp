@@ -1,0 +1,87 @@
+Przeciwnik	dzv
+Data	1.2.3
+Obiekt	qfas
+
+Wynik	1 : 1
+set 1	1 : 1
+set 2	2 : 0
+
+
+Cala druzyna
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	4	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	0.0%	brak	brak	brak	brak	brak	
+
+
+fs sdf, 1
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	4	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	0.0%	brak	brak	brak	brak	brak	
+
+
+dfsdf df, 2
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	brak	brak	brak	brak	brak	brak	
+
+
+sdfs dsf, 3
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	brak	brak	brak	brak	brak	brak	
+
+
+f d, 4
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	brak	brak	brak	brak	brak	brak	
+
+
+sdfsdf ssdf, 5
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	brak	brak	brak	brak	brak	brak	
+
+
+sf f, 6
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	brak	brak	brak	brak	brak	brak	
+
+
+f df, 7
+
+Ocena	Przyjecie	Zagrywka	Obrona	Rozegranie	Atak	Blok
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Dokladnosc	brak	brak	brak	brak	brak	brak	
